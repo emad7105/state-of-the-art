@@ -15,7 +15,7 @@ This is a curated list of resources about **Verifiable Image Modification**. It 
 ## Theory
 
 ### Papers
-- 2022 - [ZK-IMG: Attested Images via Zero-Knowledge Proofs to Fight Disinformation]([https://arxiv.org/abs/1109.6882](https://arxiv.org/pdf/2211.04775)) [CKang et al.]
+- 2022 - [ZK-IMG: Attested Images via Zero-Knowledge Proofs to Fight Disinformation](https://arxiv.org/abs/1109.6882) [CKang et al.]
 - 2023 - [Modular Sumcheck Proofs with Applications to Machine Learning and Image Processing](https://dl.acm.org/doi/pdf/10.1145/3576915.3623160) [Balbas et al.]
 - 2024 - [VIMz: Verifiable Image Manipulation using Folding-based zkSNARKs](https://eprint.iacr.org/2024/1063.pdf) [Dziembowski et al.]
 - 2024 - [Trust Nobody: Privacy-Preserving Proofs for Edited Photos with Your Laptop](https://eprint.iacr.org/2024/1074) [Della Monica et al.]
