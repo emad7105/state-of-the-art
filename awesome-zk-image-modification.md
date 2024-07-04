@@ -22,9 +22,15 @@ This is a curated list of resources about **Verifiable Image Modification**. It 
 - 2024 - [Trust Nobody: Privacy-Preserving Proofs for Edited Photos with Your Laptop](https://eprint.iacr.org/2024/1074) [Della Monica et al.]
 
 ### Blogs
+- 2024 - [Using ZK Proofs to Fight Disinformation](https://medium.com/@boneh/using-zk-proofs-to-fight-disinformation-17e7d57fe52f)[Datta-Boneh]
 
 
 ### Videos
-
+- 2023 - [Using ZK Proofs to Fight Disinformation](https://youtu.be/MwTK6ZQhOQg?t=2953) [Trisha Datta, RWC 2023]
+- 2023 - [Do Not Trust Anybody: ZK Proofs for Image Transformations Tile by Tile on Your Laptop](https://www.youtube.com/watch?v=X8ebjijCTMA) [Ivan Visconti]
 
 ## Implementations
+- 2023
+- 2023 - [VerITAS] (https://github.com/zk-VerITAS/VerITAS) [related to Paper(Datta et al.)]
+- 2024 - [VIMz: Verifiable Image Manipulation via Folding-based zkSNARKs](https://github.com/zero-savvy/vimz) [related to Paper(Dziembowski et al.)]
+- 2024 - [Privacy-Preserving Proofs 4 Edited Photos](https://github.com/PIERdemo/Privacy-PreservingProofs4EditedPhotos)[related to Paper(Della Monica et al.)]
