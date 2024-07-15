@@ -18,7 +18,7 @@ This is a curated list of resources about **Verifiable Homomorphic Encryption**.
 - 2010 - [Outsourcing computation to untrusted workers](https://arxiv.org/abs/1109.6882) [Gennaro et al.] based on Garbled circuits.
 - 2013 - [How to run Turing machines on encrypted data](https://doi.org/10.1007/978-3-642-40084-1_30)[Goldwasser et al.] based on functional encryption.
 - 2014 - [Efficiently verifiable computation on encrypted data](https://doi.org/10.1145/2660267.2660366)[Fiore-Gennaro-Pastro] based on combining VC & FHE
-- 2020- [Boosting verifiable computation on encrypted data](Fiore-Nitulescu-Pointcheval)[https://doi.org/10.1007/978-3-030-45388-6_5] extended Fiore-Gennaro-Pastro 2014
+- 2020- [Boosting verifiable computation on encrypted data](Fiore-Nitulescu-Pointcheval)[https://doi.org/10.1007/978-3-030-45388-6_5] extended FGP'14
 - 2024- [Flexible and efficient verifiable computation on encrypted data](https://doi.org/10.1007/978-3-030-75248-4_19)[Bois-Cascudo-Fiore-Kim]
 - - []()[]
 - - []()[]
